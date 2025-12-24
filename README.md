@@ -18,9 +18,13 @@ This project presents an interactive Power BI dashboard for analyzing e-commerce
 📂 Folder Structure
 ----
 data/           # Dataset used for analysis
+
 dashboard/      # Power BI (.pbix) file
+
 screenshots/    # Dashboard images
+
 report/         # Project report (if available)
+
 README.md
 
 
